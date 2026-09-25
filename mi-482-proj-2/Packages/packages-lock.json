@@ -99,7 +99,7 @@
     },
     "com.unity.ai.navigation": {
       "version": "2.0.14",
-      "depth": 0,
+      "depth": 2,
       "source": "registry",
       "dependencies": {
         "com.unity.modules.ai": "1.0.0"
